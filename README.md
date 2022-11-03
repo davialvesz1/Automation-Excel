@@ -1,5 +1,5 @@
 # Automation-Excel
-Criei esse codigo com o objetivo de consultar/inserir dados em determinada planilha do Excel
+Criei esse codigo com o objetivo de consultar/inserir dados em determinada planilha do Excel sem precisar abrir o Excel
 
 Os dados se encontram na Planilha TESTE
 
